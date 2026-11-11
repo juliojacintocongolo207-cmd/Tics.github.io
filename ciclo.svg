@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Infografia: o que fazer em quatro passos ao sofrer ou presenciar assédio">
+<style>text{font-family:Segoe UI,Arial,sans-serif}.t{font-size:20px;font-weight:700;fill:#14213d}.s{font-size:15px;fill:#14213d}</style>
+<rect width="720" height="300" rx="14" fill="#e9f1f8"/>
+<g>
+<rect x="20" y="40" width="156" height="220" rx="12" fill="#fff" stroke="#5b2fb8" stroke-width="3"/>
+<circle cx="98" cy="40" r="22" fill="#5b2fb8"/><text x="98" y="48" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">1</text>
+<text x="98" y="100" text-anchor="middle" class="t">Reconhece</text>
+<text x="98" y="130" text-anchor="middle" class="s">Se te magoa ou</text><text x="98" y="150" text-anchor="middle" class="s">te incomoda, não</text><text x="98" y="170" text-anchor="middle" class="s">é brincadeira.</text>
+</g>
+<g>
+<rect x="196" y="40" width="156" height="220" rx="12" fill="#fff" stroke="#5b2fb8" stroke-width="3"/>
+<circle cx="274" cy="40" r="22" fill="#5b2fb8"/><text x="274" y="48" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">2</text>
+<text x="274" y="100" text-anchor="middle" class="t">Diz não</text>
+<text x="274" y="130" text-anchor="middle" class="s">Afasta-te e diz</text><text x="274" y="150" text-anchor="middle" class="s">com firmeza que</text><text x="274" y="170" text-anchor="middle" class="s">pare. Sem culpa.</text>
+</g>
+<g>
+<rect x="372" y="40" width="156" height="220" rx="12" fill="#fff" stroke="#5b2fb8" stroke-width="3"/>
+<circle cx="450" cy="40" r="22" fill="#5b2fb8"/><text x="450" y="48" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">3</text>
+<text x="450" y="100" text-anchor="middle" class="t">Guarda provas</text>
+<text x="450" y="130" text-anchor="middle" class="s">Anota datas, locais</text><text x="450" y="150" text-anchor="middle" class="s">e o que aconteceu.</text><text x="450" y="170" text-anchor="middle" class="s">Guarda mensagens.</text>
+</g>
+<g>
+<rect x="548" y="40" width="156" height="220" rx="12" fill="#fff" stroke="#f2a93b" stroke-width="4"/>
+<circle cx="626" cy="40" r="22" fill="#f2a93b"/><text x="626" y="48" text-anchor="middle" font-size="22" font-weight="700" fill="#14213d">4</text>
+<text x="626" y="100" text-anchor="middle" class="t">Fala</text>
+<text x="626" y="130" text-anchor="middle" class="s">Conta a um adulto</text><text x="626" y="150" text-anchor="middle" class="s">de confiança e pede</text><text x="626" y="170" text-anchor="middle" class="s">ajuda à escola.</text>
+</g>
+</svg>
